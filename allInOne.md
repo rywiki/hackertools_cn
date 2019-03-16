@@ -138,7 +138,7 @@ MIT课程没有涉及任何这个内容的细节。精通你的工具是非常�
 
 性能提升的原因是，与运行整个操作系统副本的虚拟机不同，容器与主机共享Linux内核。但是，请注意，如果您在Windows/MacOS上运行Linux容器，那么Linux虚拟机将需要处于活动状态，作为两者之间的中间层。
 
-![*Docker容器和虚拟机的比较Credit: blog.docker.com*](C:\Users\Rodger\Documents\mdimgs\Blog.-Are-containers-..VM-Image-1.png)
+![*Docker容器和虚拟机的比较Credit: blog.docker.com*](./imgs/Blog.-Are-containers-..VM-Image-1.png)
 
 当您希望在标准设置中运行自动化任务时，容器非常方便：
 
